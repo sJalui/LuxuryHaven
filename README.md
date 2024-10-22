@@ -7,7 +7,7 @@
 ![Frontend Screenshot](https://raw.githubusercontent.com/sJalui/LuxuryHaven/refs/heads/main/Site%20Images/Screenshot%202024-10-22%20220842.png?token=GHSAT0AAAAAACYN53YUOYA4GAYRVNU7XMJ4ZYX4QTA)
 ![Frontend Screenshot](https://raw.githubusercontent.com/sJalui/LuxuryHaven/refs/heads/main/Site%20Images/Screenshot%202024-10-22%20222249.png?token=GHSAT0AAAAAACYN53YVGMRH6USBYLHN622AZYX4REQ)
 
-# ✨ Beach Resort | Hotel Room Booking System
+# ✨ LuxuryHaven | Hotel Room Booking System
 
 Hello 👋, I'm <strong>Shubh Jalui</strong>. In this repository I built a `Luxury Haven' | Hotel Room Booking System - Web application`. Using `Node.js, React.js, Express.js, MongoDB, Typescript`.
 
