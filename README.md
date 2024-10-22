@@ -24,7 +24,7 @@ Hello 👋, I'm <strong>Shubh Jalui</strong>. In this repository I built a `Luxu
 
 
 <p align="center">
-  <strong> HAPPY DEVELOPMENT and special thanks to Eeshanya Joshi https://github.com/Code-Ph0enix & Chris Bakely https://github.com/chrisblakely01/mern-booking-app </strong>
+  <strong> HAPPY DEVELOPMENT and special thanks to Eeshanya Joshi https://github.com/Code-Ph0enix & Chris Bakely </strong>
 </p>
 
 # Setting Up the MERN Booking App
