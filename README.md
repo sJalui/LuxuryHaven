@@ -9,7 +9,7 @@
 
 # ✨ Beach Resort | Hotel Room Booking System
 
-Hello 👋, I'm <strong>Shubh Jalui</strong>. In this repository i will be build a `Luxury Haven' | Hotel Room Booking System - Web application`. Using `Node.js, Express.js,  MongoDB, Typescript`.
+Hello 👋, I'm <strong>Shubh Jalui</strong>. In this repository I built a `Luxury Haven' | Hotel Room Booking System - Web application`. Using `Node.js, React.js, Express.js, MongoDB, Typescript`.
 
 <!-- my social media links -->
 
