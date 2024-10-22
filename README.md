@@ -112,12 +112,12 @@ cd mern-booking-app
     - The application should now be running on `http://localhost:5173` but verify this in your command line terminal 
 3. **Issue Resolve**:
     - Use this code in your index.tsc file in frontend to resolve corse error(Use your localhost)
+    - ```plaintext
       app.use(cors({
       origin: 'http://localhost:5174', 
       credentials: true, 
-      })); 
-
-
+      }));
+      ```
 ## Running Automated Tests
 
 1. **MongoDB Setup**: 
