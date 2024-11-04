@@ -18,13 +18,10 @@ cloudinary.config({
   api_secret: process.env.CLOUDINARY_API_SECRET,
 });
 
-// MongoDB connection
-mongoose.connect(process.env.MONGODB_CONNECTION_STRING as string, {
-  useNewUrlParser: true,
-  useUnifiedTopology: true,
-})
-.then(() => console.log("Connected to MongoDB"))
-.catch((error) => console.error("MongoDB connection error:", error));
+// MongoDB connection (updated to remove outdated options)
+mongoose.connect(process.env.MONGODB_CONNECTION_STRING as string)
+  .then(() => console.log("Connected to MongoDB"))
+  .catch((error) => console.error("MongoDB connection error:", error));
 
 const app = express();
 
