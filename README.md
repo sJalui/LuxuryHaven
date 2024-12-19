@@ -4,8 +4,10 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Github][github-shield]][github-url]
 
-![Frontend Screenshot](https://raw.githubusercontent.com/sJalui/LuxuryHaven/refs/heads/main/Site%20Images/Screenshot%202024-10-22%20220842.png?token=GHSAT0AAAAAACYN53YUOYA4GAYRVNU7XMJ4ZYX4QTA)
-![Frontend Screenshot](https://raw.githubusercontent.com/sJalui/LuxuryHaven/refs/heads/main/Site%20Images/Screenshot%202024-10-22%20222249.png?token=GHSAT0AAAAAACYN53YVGMRH6USBYLHN622AZYX4REQ)
+![Frontend Home Page Screenshot](https://github.com/sJalui/LuxuryHaven/blob/main/Site%20Images/image.png?raw=true)
+![SignIn Screenshot](https://github.com/sJalui/LuxuryHaven/blob/main/Site%20Images/Screenshot%202024-10-22%20220923.png?raw=true)
+![Search Page Screenshot](https://github.com/sJalui/LuxuryHaven/blob/main/Site%20Images/Screenshot%202024-10-22%20220842.png?raw=true)
+![Booking Page Screenshot](https://github.com/sJalui/LuxuryHaven/blob/main/Site%20Images/Screenshot%202024-10-22%20222249.png?raw=true)
 
 # ✨ LuxuryHaven | Hotel Room Booking System
 
