@@ -16,7 +16,7 @@ Hello 👋, I'm <strong>Shubh Jalui</strong>. In this repository I built a `Luxu
 <!-- my social media links -->
 
 [instagram-url]: https://www.instagram.com/s_jalui
-[linkedin-url]: https://in.linkedin.com/in/shubh-jalui-1923b1259
+[linkedin-url]: https://in.linkedin.com/in/shubh-jalui
 [github-url]: https://www.github.com/sJalui
 <!-- shield icon links -->
 
